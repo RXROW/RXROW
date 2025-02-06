@@ -1,7 +1,13 @@
  <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+# Hey there! I'm Eslam Ahmed 👋🏼  
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🚀 **MERN Stack Web Developer** with a passion for building modern, scalable, and high-performance web applications.  
+🛠️ Experienced in **React, Next.js, Node.js, Express, and MongoDB**, always eager to learn and explore new technologies.  
+📚 Studying **Media-Based Computer Science** at Berliner Hochschule für Technik.  
+💼 Started my journey as a web developer in **2022**, and I’m currently working on my own projects.  
+🎬 Just launched my **Website: ["Tech"](https://es-portfolio-five.vercel.app/)**!  
+
+Let's connect and build something amazing together! 🚀 
 
 
 # 💻 Tech Stack:
