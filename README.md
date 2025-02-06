@@ -1,11 +1,11 @@
- <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+ ![](https://res.cloudinary.com/dyv3dluov/image/upload/v1738802884/ESLAM_AHMED_ihfyux.png)
 # Hey there! I'm Eslam Ahmed 👋🏼  
 
 🚀 **MERN Stack Web Developer** with a passion for building modern, scalable, and high-performance web applications.  
 🛠️ Experienced in **React, Next.js, Node.js, Express, and MongoDB**, always eager to learn and explore new technologies.  
 📚 Studying **Media-Based Computer Science** at Berliner Hochschule für Technik.  
 💼 Started my journey as a web developer in **2022**, and I’m currently working on my own projects.  
-🎬 Just launched my **Website: ["Tech"](https://es-portfolio-five.vercel.app/)**!  
+🎬 Just launched my **Website: ["my portfolio"](https://es-portfolio-five.vercel.app/)**!  
 
 Let's connect and build something amazing together! 🚀 
 
